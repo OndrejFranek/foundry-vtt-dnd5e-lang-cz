@@ -49,16 +49,16 @@
 		{
 			"id": "Sorcerer",
 			"name": "Sorcerer",
-			"description": "<p>자신의 혈통이나 주위의 야생 마법으로부터 힘을 이끌어내는 마법 사용자입니다.</p>"
+			"description": "<p></p>"
 		},
 		{
 			"id": "Warlock",
-			"name": "Čaroděj",
-			"description": "<p>Sesilatel kouzel, jenž čerpá ze své vnitřní magie díky vrozenému daru či rodokmenu</p>"
+			"name": "Warlock",
+			"description": "<p></p>"
 		},
 		{
 			"id": "Wizard",
-			"name": "Kouzelník",
+			"name": "Wizard",
 			"description": "<p></p>"
 		}
 	]
