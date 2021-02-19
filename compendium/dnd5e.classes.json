@@ -1,10 +1,9 @@
 {
-	"label": "Czech",
+	"label": "Rasa (SRD)",
 	"entries": [
 		{
 			"id": "Barbarian",
-			"name": "Barbar",
-			"description": "<p>Divoký válečník s primitivním zázemím, jenž se umí bojově rozzuřit</p>"
+			"name": "Barbar"
 		},
 		{
 			"id": "Bard",
