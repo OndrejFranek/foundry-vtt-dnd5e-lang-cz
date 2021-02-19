@@ -1,0 +1,65 @@
+{
+	"label": "Czech",
+	"entries": [
+		{
+			"id": "Barbarian",
+			"name": "Barbar",
+			"description": "<p>Divoký válečník s primitivním zázemím, jenž se umí bojově rozzuřit</p>"
+		},
+		{
+			"id": "Bard",
+			"name": "Bard",
+			"description": "<p>Inspirující kejklíř, jehož schopnosti odráží hudbu stvoření</p>"
+		},
+		{
+			"id": "Cleric",
+			"name": "Klerik",
+			"description": "<p>Kněžský šampion, který ovládá božskou magii ve službách vyšší moci</p>"
+		},
+		{
+			"id": "Druid",
+			"name": "Druid",
+			"description": "<p>Kněz Staré víry, jenž vládne silám přírody — měsíčnímu svitu a růstu rostlin, ohni a blesku — a bere na sebe podobu zvířat</p>"
+		},
+		{
+			"id": "Fighter",
+			"name": "Bojovník",
+			"description": "<p>Mistr válečného boje, sběhlý s mnoha zbraněmi a zbrojemi</p>"
+		},
+		{
+			"id": "Monk",
+			"name": "Mnich",
+			"description": "<p>Mistr bojových umění, vyzbrojen mocí těla v honbě za fyzickou a duchovní dokonalostí</p>"
+		},
+		{
+			"id": "Paladin",
+			"name": "Paladin",
+			"description": "<p>Svatý válečník vázaný posvátnou přísahou</p>"
+		},
+		{
+			"id": "Ranger",
+			"name": "Hraničář",
+			"description": "<p>Válečník, jenž používá bojovou zdatnost a přírodní magii v boji proti hrozbám na okraji civilizace</p>"
+		},
+		{
+			"id": "Rogue",
+			"name": "Tulák",
+			"description": "<p>Mizera, který překonává překážky a nepřátele pomocí nenápadnosti a šalby</p>"
+		},
+		{
+			"id": "Sorcerer",
+			"name": "Sorcerer",
+			"description": "<p>자신의 혈통이나 주위의 야생 마법으로부터 힘을 이끌어내는 마법 사용자입니다.</p>"
+		},
+		{
+			"id": "Warlock",
+			"name": "Čaroděj",
+			"description": "<p>Sesilatel kouzel, jenž čerpá ze své vnitřní magie díky vrozenému daru či rodokmenu</p>"
+		},
+		{
+			"id": "Wizard",
+			"name": "Kouzelník",
+			"description": "<p></p>"
+		}
+	]
+}
