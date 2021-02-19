@@ -7,58 +7,47 @@
 		},
 		{
 			"id": "Bard",
-			"name": "Bard",
-			"description": "<p>Inspirující kejklíř, jehož schopnosti odráží hudbu stvoření</p>"
+			"name": "Bard"
 		},
 		{
 			"id": "Cleric",
-			"name": "Klerik",
-			"description": "<p>Kněžský šampion, který ovládá božskou magii ve službách vyšší moci</p>"
+			"name": "Klerik"
 		},
 		{
 			"id": "Druid",
-			"name": "Druid",
-			"description": "<p>Kněz Staré víry, jenž vládne silám přírody — měsíčnímu svitu a růstu rostlin, ohni a blesku — a bere na sebe podobu zvířat</p>"
+			"name": "Druid"
 		},
 		{
 			"id": "Fighter",
-			"name": "Bojovník",
-			"description": "<p>Mistr válečného boje, sběhlý s mnoha zbraněmi a zbrojemi</p>"
+			"name": "Bojovník"
 		},
 		{
 			"id": "Monk",
-			"name": "Mnich",
-			"description": "<p>Mistr bojových umění, vyzbrojen mocí těla v honbě za fyzickou a duchovní dokonalostí</p>"
+			"name": "Mnich"
 		},
 		{
 			"id": "Paladin",
-			"name": "Paladin",
-			"description": "<p>Svatý válečník vázaný posvátnou přísahou</p>"
+			"name": "Paladin"
 		},
 		{
 			"id": "Ranger",
-			"name": "Hraničář",
-			"description": "<p>Válečník, jenž používá bojovou zdatnost a přírodní magii v boji proti hrozbám na okraji civilizace</p>"
+			"name": "Hraničář"
 		},
 		{
 			"id": "Rogue",
-			"name": "Tulák",
-			"description": "<p>Mizera, který překonává překážky a nepřátele pomocí nenápadnosti a šalby</p>"
+			"name": "Tulák"
 		},
 		{
 			"id": "Sorcerer",
-			"name": "Sorcerer",
-			"description": "<p></p>"
+			"name": "Sorcerer"
 		},
 		{
 			"id": "Warlock",
-			"name": "Warlock",
-			"description": "<p></p>"
+			"name": "Warlock"
 		},
 		{
 			"id": "Wizard",
-			"name": "Wizard",
-			"description": "<p></p>"
+			"name": "Wizard"
 		}
 	]
 }
