@@ -14,7 +14,7 @@
 		"name": "Czech",
 		"path": "cs.json"
 	}],
-	"url": "",
-	"manifest": "",
-	"download": ""
+	"url": "https://github.com/OndrejFranek/foundry-vtt-dnd5e-lang-cz/",
+	"manifest": "https://github.com/OndrejFranek/foundry-vtt-dnd5e-lang-cz/blob/master/module/module.json",
+	"download": "https://github.com/OndrejFranek/foundry-vtt-dnd5e-lang-cz/archive/master.zip"
 }
