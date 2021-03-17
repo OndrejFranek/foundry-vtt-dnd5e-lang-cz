@@ -1,6 +1,6 @@
 Hooks.once('init', () => {
 	game.settings.register("dnd5e_cs-CZ", "show-original-name", {
-		name: "Monster czech",
+		name: "CZ items",
 		hint: "",
 		scope: "world",
 		config: true,

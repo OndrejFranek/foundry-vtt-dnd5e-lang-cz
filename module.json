@@ -2,7 +2,7 @@
 	"name": "dnd5e_cs-CZ",
 	"title": "Translation: Czech Monster [D&D 5e]",
 	"description": "<p>Preklad nestvur CZ</p>",
-	"version": "0.0.2",
+	"version": "0.0.12",
 	"minimumCoreVersion" : "0.7.9",
 	"compatibleCoreVersion": "0.7.9",
 	"author": "Ondrej Ragnar Franek",
