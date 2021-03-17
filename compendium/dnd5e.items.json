@@ -245,6 +245,71 @@
 			"id": "Whip",
 			"name": "Bič",
 			"description": "<p>Jeden a půlruční (1k10)</p>"
+		},
+		{
+			"id": "Leather Armor",
+			"name": "Kožená zbroj",
+			"description": "<p>Náprsní krunýř a chrániče ramen této zbroje jsou vyrobeny z kůže tvrzené vařením v oleji. Zbytek zbroje je vyroben z měkčích a vláčnějších materiálů.</p>"
+		},
+		{
+			"id": "Padded Armor",
+			"name": "Vycpávaná zbroj",
+			"description": "<p>Vycpávaná zbroj se skládá z prošívaných vrstev látky a rouna.</p>"
+		},
+		{
+			"id": "Studded Leather Armor",
+			"name": "Okovaná kožená zbroj",
+			"description": "<p>Okovaná kožená zbroj je vyrobena z odolné, ale elastické kůže a posílená nahusto pobitými nýty nebo hroty.</p>"
+		},
+		{
+			"id": "Hide Armor",
+			"name": "Usňová zbroj",
+			"description": "<p>Tato surová zbroj se skládá z tlustých kožešin a surových kůží. Často ji nosí barbarské kmeny, zlí humanoidi a ostatní, kdo nemají přístup k nástrojům a materiálům potřebným k výrobě lepší zbroje.</p>"
+		},
+		{
+			"id": "Chain Shirt",
+			"name": "Drátěná košile",
+			"description": "<p>Drátěná košile je vyrobená z propletených kovových kroužků a nosí se mezi vrstvami oblečení nebo kůže. Tato zbroj nabízí slušnou ochranu nositele od pasu nahoru a zvuk o sebe se otírajících kroužků se dá utlumit vnějšími vrstvami.</p>"
+		},
+		{
+			"id": "Scale Mail",
+			"name": "Šupinová zbroj",
+			"description": "<p>Tato zbroj se skládá z kabátce a kamaší z kůže (a často i samostatné sukně) pokrytých překrývajícími se kusy kovu, podobně jako rybí šupiny. Zbroj obsahuje rukavice.</p>"
+		},
+		{
+			"id": "Breastplate",
+			"name": "Kyrys",
+			"description": "<p>Tato zbroj se skládá z kusu kovu přiléhajícímu k hrudníku a vláčné kůže. I když nohy a ruce nechává relativně nechráněné, poskytuje dobrou ochranu nositelových životně důležitých orgánů a nositele v podstatě nijak neomezuje.</p>"
+		},
+		{
+			"id": "Half Plate Armor",
+			"name": "Poloplátová zbroj",
+			"description": "<p>Poloplátová zbroj se skládá z tvarovaných kovových plátů, které pokrývají většinu nositelova těla. Nezahrnuje ochranu nohou mimo stehenní brnění, která jsou připojená koženými řemeny.</p>"
+		},
+		{
+			"id": "Ring Mail",
+			"name": "Kroužková zbroj",
+			"description": "<p>Tato zbroj je kožená zbroj s těžkými kroužky našitými na materiál zbroje. Kroužky zpevňují zbroj proti úderům mečů a seker. Kroužková zbroj je horší než drátěná zbroj, ale obvykle ji nosí ti, kteří si nemohou dovolit lepší zbroj.</p>"
+		},
+		{
+			"id": "Chain Mail",
+			"name": "Drátěná zbroj",
+			"description": "<p>Drátěná zbroj, vyrobená z propletených kovových kroužků, obsahuje z vnitřní strany zbroje vrstvu prošívané tkaniny, která zabraňuje odírání a tlumí dopadající údery. Zbroj obsahuje rukavice.</p>"
+		},
+		{
+			"id": "Splint Armor",
+			"name": "Lamelová zbroj",
+			"description": "<p>Tato zbroj je vyrobena z úzkých svislých kovových pásů přibitých na koženém podkladu, který se nosí na vycpávaném oblečení. Pružné spoje jsou chráněny drátěnými kroužky.</p>"
+		},
+		{
+			"id": "Plate Armor",
+			"name": "Plátová zbroj",
+			"description": "<p>Plátová zbroj se skládá z kovových plátů snýtovaných a vzájemně spojených tak, aby kryla celé tělo. Zbroj obsahuje rukavice, těžké kožené boty, přilbu s hledím a tlusté vrstvy vycpávky pod zbrojí. Přezky a řemeny rozkládají váhu po těle.</p>"
+		},
+		{
+			"id": "Shield",
+			"name": "Štít",
+			"description": "<p>-</p>"
 		}
 	]
 }
