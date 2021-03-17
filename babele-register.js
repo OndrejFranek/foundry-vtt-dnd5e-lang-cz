@@ -22,7 +22,7 @@ Hooks.once('init', () => {
 			let originalName = data.name;
 			let translatedData = this.translateOrigin(data);
 			if (originalName !== translatedData.name){
-				translatedData.name = translatedData.name + ' ' + originalName;
+				translatedData.name = translatedData.name;
 			}
 			return translatedData;
 		};
