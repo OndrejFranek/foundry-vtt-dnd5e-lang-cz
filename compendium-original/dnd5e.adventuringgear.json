@@ -1,0 +1,375 @@
+{
+	"label": "Items (SRD)",
+	"entries": [
+		{
+			"id": "Abacus",
+			"name": "Počítadlo",
+			"description": "<p>Standartní nástroj používaný k výpočtům</p>"
+		},
+		{
+			"id": "Acid (vial)",
+			"name": "Kyselina (flakónek)",
+			"description": "<p>Jako akci můžeš vychrstnout obsah flakónku na cíl do 1 sáhu od tebe, nebo flakónek vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. V každém případě zaútočíš na dálku proti tvorovi nebo předmětu, přičemž ber kyselinu jako improvizovanou zbraň. Při zásahu utrpí cíl kyselinové zranění 2k6.</p>"
+		},
+		{
+			"id": "Alchemist's Fire",
+			"name": "Alchymistický oheň (Lahvička)",
+			"description": "<p>Tato mazlavá, lepkavá kapalina se na vzduchu vznítí. Jako akci můžeš tuto lahvici vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. Zaútočíš na dálku na tvora nebo předmět, přičemž ber alchymistický oheň jako improvizovanou zbraň. Při zásahu utrpí cíl na začátku každého svého tahu ohnivé zranění 1k4. Tvor může ukončit toto zranění použitím akce, ve které si hodí na ověření Obratnosti se SO 10, jestli uhasí plameny.</p>"
+		},
+		{
+			"id": "Alchemist's supplies",
+			"name": "Alchymistické suroviny",
+			"description": "<p>Potřebné suroviny a nástroje k alchymii</p>"
+		},
+		{
+			"id": "Amulet",
+			"name": "Amulet",
+			"description": "<p>Amulet zobrazující symbol představující božstvo, jehož prostřednictvím může věřící vyvolat svou moc, a tím šířit víru.</p>"
+		},
+		{
+			"id": "Arrow +1",
+			"name": "Šíp +1",
+			"description": "<p>Ammunition used for bows of all varieties.  It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
+		},
+		{
+			"id": "Arrow +2",
+			"name": "Šíp +2",
+			"description": "<p>Ammunition used for bows of all varieties.  It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
+		},
+		{
+			"id": "Arrow +3",
+			"name": "Šíp +3",
+			"description": "<p>Ammunition used for bows of all varieties.  It has been imbued with magic.</p>\n<p>You have a bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.</p>"
+		},
+		{
+			"id": "Arrows",
+			"name": "Šípy",
+			"description": "<p>Standard ammunition used for bows of all varieties. These mundane arrows are made of smooth wooden shafts with goose feather fletching and hammer metal bodkins.</p>"
+		},
+		{
+			"id": "Backpack",
+			"name": "Batoh",
+			"description": "<p>A backpack can hold one cubic foot or 30 pounds of gear. You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.</p>"
+		},
+		{
+			"id": "Bag of Beans",
+			"name": "Pytlík s fazolemi",
+			"description": "<p>Inside this heavy cloth bag are 3d4 dry beans. The bag weighs 1/2 pound plus 1/4 pound for each bean it contains.</p>\n<p>If you dump the bag's contents out on the ground, they explode in a 10-foot radius, extending from the beans. Each creature in the area, including you, must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't being worn or carried.</p>\n<p>If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table, determine it randomly, or create an effect.</p>\n<table border=\"1\">\n<tbody>\n<tr>\n<td><strong>d100</strong></td>\n<td><strong>Effect</strong></td>\n</tr>\n<tr>\n<td>01</td>\n<td>5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 poison damage and become poisoned for 1 hour. On an even roll, the eater gains 5d6 temporary hit points for 1 hour.</td>\n</tr>\n<tr>\n<td>02-10</td>\n<td>A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d12 rounds.</td>\n</tr>\n<tr>\n<td>11-20</td>\n<td>A treant sprouts. There's a 50 percent chance that the treant is chaotic evil and attacks.</td>\n</tr>\n<tr>\n<td>21-30</td>\n<td>An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours.</td>\n</tr>\n<tr>\n<td>31-40</td>\n<td>A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).</td>\n</tr>\n<tr>\n<td>41-50</td>\n<td>1d6 + 6 shriekers sprout.</td>\n</tr>\n<tr>\n<td>51-60</td>\n<td>1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.</td>\n</tr>\n<tr>\n<td>61-70</td>\n<td>A hungry bulette burrows up and attacks.</td>\n</tr>\n<tr>\n<td>71-80</td>\n<td>A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.</td>\n</tr>\n<tr>\n<td>81-90</td>\n<td>A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal magical explosion.</td>\n</tr>\n<tr>\n<td>91-99</td>\n<td>A pyramid with a 60-foot‐square base bursts upward. Inside is a sarcophagus containing a mummy lord. The pyramid is treated as the mummy lord's lair, and its sarcophagus contains treasure of the GM's choice.</td>\n</tr>\n<tr>\n<td>00</td>\n<td>A giant beanstalk sprouts, growing to a height of the GM's choice. The top leads where the GM chooses, such as to a great view, a cloud giant's castle, or a different plane of existence.</td>\n</tr>\n</tbody>\n</table>\n<p> </p>"
+		},
+		{
+			"id": "Bagpipes",
+			"name": "Dudy",
+			"description": "<p>A set of bagpipes to evoke awe, wonder, or fear in your audience.</p>\n<p>If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency. </p>"
+		},
+		{
+			"id": "Barrel",
+			"name": "Sud",
+			"description": "<p>A barrel can hold 40 gallons of liquid or 4 cubic feet of solids.</p>"
+		},
+		{
+			"id": "Battleaxe",
+			"name": "Válečná sekera",
+			"description": "<p>Bojová sekera pro jedno a dvouruční použití.</p>"
+		},
+		{
+			"id": "Battleaxe +1",
+			"name": "Válečná sekera +1",
+			"description": "<p>Bojová sekera pro jedno a dvouruční použití.</p>"
+		},
+		{
+			"id": "Battleaxe +2",
+			"name": "Válečná sekera +2",
+			"description": "<p>Bojová sekera pro jedno a dvouruční použití.</p>"
+		},
+		{
+			"id": "Battleaxe +3",
+			"name": "Válečná sekera +3",
+			"description": "<p>Bojová sekera pro jedno a dvouruční použití.</p>"
+		},
+		{
+			"id": "Bell",
+			"name": "Zvonek",
+			"description": "<p>Malý zvonek</p>"
+		},
+		{
+			"id": "Blanket",
+			"name": "Spacák",
+			"description": "<p>Přikrývka, která v noci zahřeje.</p>"
+		},
+		{
+			"id": "Blowgun",
+			"name": "Foukačka",
+			"description": "<p>Nabíjecí, střelná (dostřel 5/20)</p>"
+		},
+		{
+			"id": "Book",
+			"name": "Kniha",
+			"description": "<p>Popis knihy zde....</p>"
+		},
+		{
+			"id": "Bucket",
+			"name": "Kbelík",
+			"description": "<p>A bucket holds 3 gallons of liquid or ½ cubic foot of solids.</p>"
+		},
+		{
+			"id": "Candle",
+			"name": "Svíčka",
+			"description": "<p>Na 1 hodinu svíčka osvítí jasným světlem okruh o poloměru 1 sáh a slabým světlem dosvítí další 1 sáh.</p>"
+		},
+		{
+			"id": "Carpenter's Tools",
+			"name": "Tesařské nástroje",
+			"description": "<p>These special tools include the items needed to pursue a craft or trade in carpentry.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+		},
+		{
+			"id": "Cartographer's Tools",
+			"name": "Kartografické pomůcky",
+			"description": "<p>These special tools include the items needed to pursue a craft or trade in cartography.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+		},
+		{
+			"id": "Chain (10 feet)",
+			"name": "Řetěz (10 feet)",
+			"description": "<p>Řetěz má 10 životů. Dá se roztrhnout úspěšným ověřením Síly se SO 20.</p>"
+		},
+		{
+			"id": "Chalk",
+			"name": "Křída",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Chest",
+			"name": "Truhla",
+			"description": "<p>12 stop krychlových/300 liber výbavy</p>"
+		},
+		{
+			"id": "Climber's Kit",
+			"name": "Horolezecká souprava",
+			"description": "<p>Horolezecká souprava obsahuje speciální skoby, podrážkové hroty, rukavice a sedací úvaz. Horolezeckou soupravu můžeš použít jako akci ke svému ukotvení; uděláš-li to, nemůžeš spadnout o víc než 5 sáhů od bodu, kde ses ukotvil, a nemůžeš šplhat dál než 5 sáhů od tohoto bodu, pokud se neodkotvíš.</p>"
+		},
+		{
+			"id": "Club",
+			"name": "Kyj",
+			"description": "<p>Dřevěný lehký kyj</p>"
+		},
+		{
+			"id": "Cobbler's Tools",
+			"name": "Ševcovské nářadí",
+			"description": "<p>These special tools include the items needed to pursue a craft or trade in cobblery.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+		},
+		{
+			"id": "Common Clothes",
+			"name": "Oblečení, obyčejné",
+			"description": "<p>Clothes worn by most commoners.</p>"
+		},
+		{
+			"id": "Component Pouch",
+			"name": "Brašnička na suroviny.",
+			"description": "<p>Brašnička na suroviny je malá, vodotěsná kožená brašnička na opasek, ve které jsou oddělené úseky pro všechny suroviny a jiné zvláštní předměty, které potřebuješ k sesílání kouzel, kromě těch surovin, které mají zvláštní cenu (uvedenou v popisu kouzla).</p>"
+		},
+		{
+			"id": "Cook's Utensils",
+			"name": "Kuchařské nástroje",
+			"description": "<p>These special tools include the items needed to pursue a craft or trade in cookery.</p>\n<p>Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan’s tools requires a separate proficiency.</p>"
+		},
+		{
+			"id": "Costume Clothes",
+			"name": "Oblečení, kostým",
+			"description": "<p>A complete costume usually used by performers and artists in all manner of entertainment halls or for those that simply refuse to get out of character.</p>"
+		},
+		{
+			"id": "Crossbow Bolt",
+			"name": "Šipky do kuše",
+			"description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip.</p>"
+		},
+		{
+			"id": "Crossbow Bolt Case",
+			"name": "Pouzdro na šipky do kuše",
+			"description": "<p>Do tohoto dřevěného pouzdra se vejde až dvacet šipek do kuše.</p>"
+		},
+		{
+			"id": "Crowbar",
+			"name": "Páčidlo",
+			"description": "<p>Použití páčidla poskytuje výhodu k ověření Síly tam, kde se dá využít páčidlo.</p>"
+		},
+		{
+			"id": "Dagger",
+			"name": "Dýka",
+			"description": "<p>Lehká, vrhací (dostřel 4/12), vytříbená</p>"
+		},
+		{
+			"id": "Dart",
+			"name": "Šipka",
+			"description": "<p>Vrhací (dostřel 4/12), vytříbená</p>"
+		},
+		{
+			"id": "Flail",
+			"name": "Řemdih",
+			"description": "<p>Kovová koule s hrotz připevnena retezem k násadě</p>"
+		},
+		{
+			"id": "Glaive",
+			"name": "Kůsa",
+			"description": "<p>Dlouhá, obouruční, těžká</p>"
+		},
+		{
+			"id": "Greataxe",
+			"name": "Obouruční sekera",
+			"description": "<p>Obouruční, těžká</p>"
+		},
+		{
+			"id": "Greatclub",
+			"name": "Těžký kyj",
+			"description": "<p>Obouruční</p>"
+		},
+		{
+			"id": "Greatsword",
+			"name": "Obouruční meč",
+			"description": "<p>Obouruční, těžká</p>"
+		},
+		{
+			"id": "Halberd",
+			"name": "Halapartna",
+			"description": "<p>Dlouhá, obouruční, těžká</p>"
+		},
+		{
+			"id": "Hammer",
+			"name": "Kladivo",
+			"description": "<p>A tool with heavy metal head mounted ar the right angles at the end of a handle, used for job such as breaking things and driving in nails. </p>"
+		},
+		{
+			"id": "Hand Crossbow",
+			"name": "Ruční kuše",
+			"description": "<p>Lehká, nabíjecí, střelná (dostřel 6/24)</p>"
+		},
+		{
+			"id": "Handaxe",
+			"name": "Ruční sekera",
+			"description": "<p>Lehká, vrhací (dostřel 4/12)</p>"
+		},
+		{
+			"id": "Heavy Crossbow",
+			"name": "Těžká kuše",
+			"description": "<p>Nabíjecí, obouruční, střelná (dostřel 30/120), těžká</p>"
+		},
+		{
+			"id": "Javelin",
+			"name": "Oštěp",
+			"description": "<p>Vrhací (dostřel 6/24)</p>"
+		},
+		{
+			"id": "Lance",
+			"name": "Dřevec",
+			"description": "<p>Když použiješ dřevec proti cíli do 1 sáhu od sebe, máš nevýhodu k hodům na útok. Navíc, když nesedíš v sedle, musíš ho držet oběma rukama.</p>"
+		},
+		{
+			"id": "Light Crossbow",
+			"name": "Lehká kuše",
+			"description": "<p>Nabíjecí, obouruční, střelná (dostřel 16/64)</p>"
+		},
+		{
+			"id": "Light Hammer",
+			"name": "Lehké kladivo",
+			"description": "<p>Lehké, vrhací (dostřel 4/12)</p>"
+		},
+		{
+			"id": "Longbow",
+			"name": "Dlouhý luk",
+			"description": "<p>Obouruční, střelný (dostřel 30/120), těžký</p>"
+		},
+		{
+			"id": "Longsword",
+			"name": "Dlouhý meč",
+			"description": "<p>Jeden a půlruční (1k10)</p>"
+		},
+		{
+			"id": "Mace",
+			"name": "Palcát",
+			"description": "<p>-</p>"
+		},
+		{
+			"id": "Maul",
+			"name": "Palice",
+			"description": "<p>Tezke kladivo, Obouruční, těžká</p>"
+		},
+		{
+			"id": "Morningstar",
+			"name": "Kropáč",
+			"description": "<p>Palice s ostny</p>"
+		},
+		{
+			"id": "Net",
+			"name": "Síť",
+			"description": "<p>Velký nebo menší tvor, kterého zasáhne síť, je zadržený, dokud se neosvobodí. Síť nijak neúčinkuje na beztvaré tvory ani na tvory, kteří jsou Obrovští či větší. Tvor si může pomocí své akce hodit na ověření Síly se SO 10. Když uspěje, může osvobodit sebe nebo jiného tvora ve svém dosahu. Sečné poškození 5 sítě (OČ 10) také osvobodí tvora, aniž by ho zranilo, ukončí účinek a síť zničí.</p><p>Když použiješ akci, bonusovou akci nebo reakci k útoku na síť, můžeš zaútočit pouze jedním útokem, bez ohledu na počet útoků, které obvykle můžeš provést.</p>"
+		},
+		{
+			"id": "Pike",
+			"name": "Píka",
+			"description": "<p>Dlouhá, obouruční, těžká</p>"
+		},
+		{
+			"id": "Quarterstaff",
+			"name": "Hůl",
+			"description": "<p>Jeden a půlruční (1k8)</p>"
+		},
+		{
+			"id": "Rapier",
+			"name": "Rapír",
+			"description": "<p><em>Vytříbený</em></p>"
+		},
+		{
+			"id": "Rapier +1",
+			"name": "Rapier +1",
+			"description": "<p><em>Vytříbený</em></p>"
+		},
+		{
+			"id": "Scimitar",
+			"name": "Scimitar",
+			"description": "<p>Lehký, vytříbený</p>"
+		},
+		{
+			"id": "Shortbow",
+			"name": "Krátký luk",
+			"description": "<p>Obouruční, střelný (dostřel 16/64)</p>"
+		},
+		{
+			"id": "Shortsword",
+			"name": "Krátký meč",
+			"description": "<p>Lehký, vytříbený</p>"
+		},
+		{
+			"id": "Sickle",
+			"name": "Srp",
+			"description": "<p>Lehký srp</p>"
+		},
+		{
+			"id": "Sling",
+			"name": "Prak",
+			"description": "<p>Střelný (dostřel 6/24)</p>"
+		},
+		{
+			"id": "Spear",
+			"name": "Kopí",
+			"description": "<p>Jeden a půlruční (1k8), vrhací (dostřel 4/12)</p>"
+		},
+		{
+			"id": "Trident",
+			"name": "Trojzubec",
+			"description": "<p>Jeden a půlruční (1k8 bodné), vrhací (dostřel 4/12)</p>"
+		},
+		{
+			"id": "War Pick",
+			"name": "Cepín",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Warhammer",
+			"name": "Válečné kladivo",
+			"description": "<p>Jeden a půlruční (1k10)</p>"
+		},
+		{
+			"id": "Whip",
+			"name": "Bič",
+			"description": "<p>Jeden a půlruční (1k10)</p>"
+		}
+	]
+}
