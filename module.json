@@ -2,11 +2,11 @@
 	"name": "dnd5e_cs-CZ",
 	"title": "Translation: Czech [D&D 5e]",
 	"description": "<p>Preklad CZ</p>",
-	"version": "0.0.17",
+	"version": "0.0.18",
 	"minimumCoreVersion" : "0.7.9",
 	"compatibleCoreVersion": "0.7.9",
 	"author": "Ondrej Ragnar Franek",
-	"esmodules": ["babele-register.js"],
+	"esmodules": ["register.js"],
 	"styles": ["style.css"],
 	"system": "dnd5e",
 	"languages": [{
