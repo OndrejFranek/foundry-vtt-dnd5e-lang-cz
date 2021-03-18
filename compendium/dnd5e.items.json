@@ -310,6 +310,261 @@
 			"id": "Shield",
 			"name": "Štít",
 			"description": "<p>-</p>"
+		},
+		{
+			"id": "Abacus",
+			"name": "Počítadlo",
+			"description": "<p>Standartní nástroj používaný k výpočtům</p>"
+		},
+		{
+			"id": "Acid (vial)",
+			"name": "Kyselina (flakónek)",
+			"description": "<p>Jako akci můžeš vychrstnout obsah flakónku na cíl do 1 sáhu od tebe, nebo flakónek vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. V každém případě zaútočíš na dálku proti tvorovi nebo předmětu, přičemž ber kyselinu jako improvizovanou zbraň. Při zásahu utrpí cíl kyselinové zranění 2k6.</p>"
+		},
+		{
+			"id": "Alchemist's Fire",
+			"name": "Alchymistický oheň (Lahvička)",
+			"description": "<p>Tato mazlavá, lepkavá kapalina se na vzduchu vznítí. Jako akci můžeš tuto lahvici vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. Zaútočíš na dálku na tvora nebo předmět, přičemž ber alchymistický oheň jako improvizovanou zbraň. Při zásahu utrpí cíl na začátku každého svého tahu ohnivé zranění 1k4. Tvor může ukončit toto zranění použitím akce, ve které si hodí na ověření Obratnosti se SO 10, jestli uhasí plameny.</p>"
+		},
+		{
+			"id": "Pan Flute",
+			"name": "Panova flétna",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Viol",
+			"name": "Viola",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Horn",
+			"name": "Lesní roh",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Lyre",
+			"name": "Lyra",
+			"description": "<p> </p>"
+		},
+		{
+			"id": "Lute",
+			"name": "Loutna",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Flute",
+			"name": "Fletna",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Dulcimer",
+			"name": "Cimbál",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Drum",
+			"name": "Buben",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Shawm",
+			"name": "Šalmaj",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Gaming Set of Dice",
+			"name": "Sada kostek",
+			"description": "<p>Sada hracích kostek 6 x K6</p>"
+		},
+		{
+			"id": "Gaming Set",
+			"name": "Herní souprava",
+			"description": "<p>Tato položka zahrnuje širokou škálu jednotlivých her, včetně kostek a balíčků karet (pro hry jako Dračí trojboj). V Tabulce pomůcek najdeš několik běžných příkladů, ale existují i jiné druhy herních souprav. Zdatnost s herní soupravou ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém hraješ hru s touto soupravou. Každý druh herní soupravy vyžaduje samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Gaming Set of Dragonchess",
+			"name": "Dračí šachy",
+			"description": "<p>This item is a complete set of dragonchess pieces and board. The board can also be used for variations of draughts and checkers.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+		},
+		{
+			"id": "Gaming Set of Playing Cards",
+			"name": "Balíček karet",
+			"description": "<p>This item encompasses a wide range of playing card types, both unmarked and marked.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+		},
+		{
+			"id": "Gaming Set of Three-Dragon Ante",
+			"name": "Dračí trojboj",
+			"description": "<p>This item is a complete set of Three-Dragon Ante playing cards,  unmarked or marked.</p>\n<p>If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.</p>"
+		},
+		{
+			"id": "Alchemist's supplies",
+			"name": "Alchymistické suroviny",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Brewer's Supplies",
+			"name": "Pivovarnické suroviny",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Calligrapher's Supplies",
+			"name": "Kaligrafické potřeby",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Carpenter's Tools",
+			"name": "Tesařské nástroje",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Cartographer's Tools",
+			"name": "Kartografické pomůcky",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Cobbler's Tools",
+			"name": "Ševcovské nářadí",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Cook's Utensils",
+			"name": "Kuchařské nástroje",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Glassblower's Tools",
+			"name": "Sklářské nástroje",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Jeweler's Tools",
+			"name": "Klenotnické nářadí",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Leatherworker's Tools",
+			"name": "Koželužnické pomůcky",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Mason's Tools",
+			"name": "Zednické nářadí",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Painter's Supplies",
+			"name": "Malířské potřeby",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Potter's Tools",
+			"name": "Hrnčířské nástroje",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Smith's Tools",
+			"name": "Kovářské nástroje",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Weaver's Tools",
+			"name": "Tkalcovské potřeby",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Woodcarver's Tools",
+			"name": "Řezbářské nástroje",
+			"description": "<p>Toto speciální nářadí zahrnuje věci, které jsou potřebné k provozování řemesla nebo obchodu. Tabulka udává příklady nejběžnějších typů nářadí, každé poskytuje předměty spojené s jedním řemeslem. Zdatnost s řemeslnickým nářadím ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém používáš nářadí svého řemesla. Každý typ řemeslnického nářadí vyžadují samostatnou zdatnost.</p>"
+		},
+		{
+			"id": "Disguise Kit",
+			"name": "Souprava pro přestrojování",
+			"description": "<p>Tato brašnička s kosmetikou, barvou na vlasy a drobnými rekvizitami ti umožňuje vytvořit přestrojení, které změní tvůj fyzický vzhled. Zdatnost se soupravou pro přestrojování ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém vytváříš vizuální přestrojení.</p>"
+		},
+		{
+			"id": "Forgery Kit",
+			"name": "Padělatelská souprava",
+			"description": "<p>Tato krabička obsahuje různé papíry a pergameny, pera a inkousty, pečetidla a pečetní vosy, zlaté a stříbrné lístky a ostatní zásoby nezbytné pro tvorbu přesvědčivých padělků fyzických dokumentů. Zdatnost s padělatelskou soupravou ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti, při kterém vytváříš fyzický padělek dokumentu.</p>"
+		},
+		{
+			"id": "Herbalism Kit",
+			"name": "Bylinkářská souprava",
+			"description": "<p>Tato souprava obsahuje nejrůznější nástroje, například štípací nůžky, paličku s hmoždířem, váčky a flakónky používané bylinkáři k vytváření léků a lektvarů. Zdatnost s bylinkářskou soupravou ti umožňuje přičíst si zdatnostní bonus k ověření vlastnosti při určování nebo aplikování bylinek. Zdatnost s touto soupravou je navíc nutná při výrobě protijedu a léčivého lektvaru.</p>"
+		},
+		{
+			"id": "Navigator’s Tools",
+			"name": "Navigační pomůcky",
+			"description": "<p>Tato souprava pomůcek se používá k navigaci na moři. Zdatnost s navigačními pomůckami ti umožňuje stanovit kurz lodi a navigovat loď podle námořnických map. Zdatnost s touto soupravou ti navíc umožňuje přičíst si svůj zdatnostní bonus k ověření vlastnosti, aby ses na moři neztratil.</p>"
+		},
+		{
+			"id": "Poisoner’s Kit",
+			"name": "Travičská souprava.",
+			"description": "<p>Travičská souprava obsahuje flakónky, chemikálie a jiné vybavení potřebné pro tvorbu jedů. Zdatnost s touto soupravou ti umožňuje přičíst si zdatností bonus k ověření vlastnosti při výrobě nebo použití jedů.</p>"
+		},
+		{
+			"id": "Thieves’ Tools",
+			"name": "Zlodějské náčiní",
+			"description": "<p>Tato sada náčiní obsahuje malý pilník, sadu paklíčů, zrcátko na kovovém držadle, sadu nůžek s úzkými čepelemi a dvoje kombinačky. Zdatnost s tímto náčiním ti umožňuje přičíst si svůj zdatnostní bonus k ověření vlastnosti při zneškodňování pasti či otevírání zámku.</p>"
+		},
+		{
+			"id": "Backpack",
+			"name": "Torna",
+			"description": "<p>1 stopa krychlová/30 liber výbavy</p>"
+		},
+		{
+			"id": "Barrel",
+			"name": "Sud",
+			"description": "<p>40 galonů kapaliny, 4 stopy krychlové pevné látky</p>"
+		},
+		{
+			"id": "Basket",
+			"name": "Koš",
+			"description": "<p>2 stopy krychlové/40 liber výbavy</p>"
+		},
+		{
+			"id": "Bucket",
+			"name": "Vědro",
+			"description": "<p>3 galony kapaliny, 0,5 stopy krychlové pevné látky</p>"
+		},
+		{
+			"id": "Chest",
+			"name": "Truhla",
+			"description": "<p>12 stop krychlových/300 liber výbavy</p>"
+		},
+		{
+			"id": "Flask",
+			"name": "Korbel",
+			"description": "<p>1 holba kapaliny</p>"
+		},
+		{
+			"id": "Jug",
+			"name": "Džbán či karafa",
+			"description": "<p>1 galon kapaliny</p>"
+		},
+		{
+			"id": "Iron Pot",
+			"name": "Kotlík, železný",
+			"description": "<p>1 galon kapaliny</p>"
+		},
+		{
+			"id": "Pouch",
+			"name": "Brašnička",
+			"description": "<p>Na opasek, 0,2 stopy krychlové/6 liber výbavy</p>"
+		},
+		{
+			"id": "Sack",
+			"name": "Pytel",
+			"description": "<p>1 stopa krychlová/30 liber výbavy</p>"
+		},
+		{
+			"id": "Vial",
+			"name": "Flakónek",
+			"description": "<p>4 unce kapaliny</p>"
+		},
+		{
+			"id": "Waterskin",
+			"name": "Měch na vodu",
+			"description": "<p>2 mázy kapaliny</p>"
 		}
 	]
 }
