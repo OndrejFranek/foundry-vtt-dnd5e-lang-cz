@@ -29,7 +29,7 @@ Hooks.once('init', () => {
 		TranslatedCompendium.prototype.i18nNameOrigin = TranslatedCompendium.prototype.i18nName;
 		TranslatedCompendium.prototype.i18nName = function(idx) {
 			let translated = this.i18nNameOrigin(idx);
-			return translated === idx.name ? translated : translated + ' ' + idx.name;
+			return translated === idx.name ? translated : translated;
 		};
 	}
 });

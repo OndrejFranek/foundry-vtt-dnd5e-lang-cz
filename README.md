@@ -2,7 +2,7 @@
 
 # Foundryvtt-dnd5e-lang-cs-CZ
 
-* **Version**: 0.0.17
+* **Version**: 0.0.19
 * **Foundry VTT Compatibility**: 0.7.9
 * **Game System Compatibility**: 1.2.4
 * **Module Requirements**: 
