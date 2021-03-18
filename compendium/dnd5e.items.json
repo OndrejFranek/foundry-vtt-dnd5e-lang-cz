@@ -19,7 +19,7 @@
 		{
 			"id": "Arrows",
 			"name": "Šípy",
-			"description": "<p>Standard ammunition used for bows of all varieties. These mundane arrows are made of smooth wooden shafts with goose feather fletching and hammer metal bodkins.</p>"
+			"description": "<p>20 ks</p>"
 		},
 		{
 			"id": "Battleaxe",
@@ -53,7 +53,7 @@
 		},
 		{
 			"id": "Crossbow Bolt",
-			"name": "Šipky do kuše",
+			"name": "Šipky do kuše 20ks",
 			"description": "<p>This ammunition is used for all varieties of crossbow and is typically a short metal shaft with a narrow piercing tip.</p>"
 		},
 		{
@@ -110,6 +110,11 @@
 			"id": "Hammer",
 			"name": "Kladivo",
 			"description": "<p>A tool with heavy metal head mounted ar the right angles at the end of a handle, used for job such as breaking things and driving in nails. </p>"
+		},
+		{
+			"id": "Sledgehammer",
+			"name": "Kladivo, perlík",
+			"description": "<p>A tool with a large, flat, often metal head, attached to a long handle. </p>"
 		},
 		{
 			"id": "Hand Crossbow",
@@ -310,21 +315,6 @@
 			"id": "Shield",
 			"name": "Štít",
 			"description": "<p>-</p>"
-		},
-		{
-			"id": "Abacus",
-			"name": "Počítadlo",
-			"description": "<p>Standartní nástroj používaný k výpočtům</p>"
-		},
-		{
-			"id": "Acid (vial)",
-			"name": "Kyselina (flakónek)",
-			"description": "<p>Jako akci můžeš vychrstnout obsah flakónku na cíl do 1 sáhu od tebe, nebo flakónek vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. V každém případě zaútočíš na dálku proti tvorovi nebo předmětu, přičemž ber kyselinu jako improvizovanou zbraň. Při zásahu utrpí cíl kyselinové zranění 2k6.</p>"
-		},
-		{
-			"id": "Alchemist's Fire",
-			"name": "Alchymistický oheň (Lahvička)",
-			"description": "<p>Tato mazlavá, lepkavá kapalina se na vzduchu vznítí. Jako akci můžeš tuto lahvici vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. Zaútočíš na dálku na tvora nebo předmět, přičemž ber alchymistický oheň jako improvizovanou zbraň. Při zásahu utrpí cíl na začátku každého svého tahu ohnivé zranění 1k4. Tvor může ukončit toto zranění použitím akce, ve které si hodí na ověření Obratnosti se SO 10, jestli uhasí plameny.</p>"
 		},
 		{
 			"id": "Pan Flute",
@@ -565,6 +555,377 @@
 			"id": "Waterskin",
 			"name": "Měch na vodu",
 			"description": "<p>2 mázy kapaliny</p>"
+		},
+		{
+			"id": "Abacus",
+			"name": "Počítadlo",
+			"description": "<p>Standartní nástroj používaný k výpočtům</p>"
+		},
+		{
+			"id": "Acid (vial)",
+			"name": "Kyselina (flakónek)",
+			"description": "<p>Jako akci můžeš vychrstnout obsah flakónku na cíl do 1 sáhu od tebe, nebo flakónek vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. V každém případě zaútočíš na dálku proti tvorovi nebo předmětu, přičemž ber kyselinu jako improvizovanou zbraň. Při zásahu utrpí cíl kyselinové zranění 2k6.</p>"
+		},
+		{
+			"id": "Alchemist's Fire",
+			"name": "Alchymistický oheň (Lahvička)",
+			"description": "<p>Tato mazlavá, lepkavá kapalina se na vzduchu vznítí. Jako akci můžeš tuto lahvici vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. Zaútočíš na dálku na tvora nebo předmět, přičemž ber alchymistický oheň jako improvizovanou zbraň. Při zásahu utrpí cíl na začátku každého svého tahu ohnivé zranění 1k4. Tvor může ukončit toto zranění použitím akce, ve které si hodí na ověření Obratnosti se SO 10, jestli uhasí plameny.</p>"
+		},
+		{
+			"id": "Amulet",
+			"name": "Amulet",
+			"description": "<p>Amulet zobrazující symbol představující božstvo, jehož prostřednictvím může věřící vyvolat svou moc, a tím šířit víru.</p>"
+		},
+		{
+			"id": "Antitoxin",
+			"name": "Protijed (flakónek)",
+			"description": "<p>Tvor, který vypije tento flakónek kapaliny, získá na 1 hodinu výhodu k záchranným hodům proti jedu. Nemrtvým ani výtvorům nedává žádnou výhodu.</p>"
+		},
+		{
+			"id": "Blowgun Needle",
+			"name": "Jehly do foukačky (50 ks)",
+			"description": "<p>(50 ks)</p>"
+		},
+		{
+			"id": "Sling Bullet",
+			"name": "Kule do praku",
+			"description": "<p>A hardened pebble of stone, bone, or metal which can be flung at high velocity using a sling.</p>\n<p><em>**Foundry note: It will usually be impossible to buy one sling bullet because they are worth less than a copper piece (5 bullets = 1 cp).</em></p>"
+		},
+		{
+			"id": "Bell",
+			"name": "Zvonek",
+			"description": "<p>Malý zvonek</p>"
+		},
+		{
+			"id": "Blanket",
+			"name": "Přikrývka",
+			"description": "<p>Přikrývka, která v noci zahřeje.</p>"
+		},
+		{
+			"id": "Block and Tackle",
+			"name": "Kladkostroj",
+			"description": "<p>Jde o sadu kladek s provlečeným lanem a hákem k uchycování předmětů. Kladkostrojem můžeš zvednout až čtyřikrát větší váhu než obvykle.</p>"
+		},
+		{
+			"id": "Book",
+			"name": "Kniha",
+			"description": "<p>Popis knihy zde....</p>"
+		},
+		{
+			"id": "Glass Bottle",
+			"name": "Láhev, skleněná",
+			"description": "<p>A bottle holds 1½ pints of liquid.</p>"
+		},
+		{
+			"id": "Caltrops",
+			"name": "Ježci (pytlík s 20 ks)",
+			"description": "<p>Jako akci můžeš rozsypat po zemi jeden váček kovových ježků a pokrýt jimi plochu 1 sáh čtvereční. Každý tvor, který na plochu vstoupí, musí uspět v záchranném hodu na Obratnost se SO 15, jinak se musí zastavit a utrpí bodné zranění 1. Dokud si tvor neobnoví aspoň 1 život, jeho rychlost chůze se sníží o 2 sáhy. Tvor, který se pohybuje po ploše poloviční rychlostí, si nemusí házet záchranný hod.</p>"
+		},
+		{
+			"id": "Candle",
+			"name": "Svíčka",
+			"description": "<p>Na 1 hodinu svíčka osvítí jasným světlem okruh o poloměru 1 sáh a slabým světlem dosvítí další 1 sáh.</p>"
+		},
+		{
+			"id": "Map or Scroll Case",
+			"name": "Tubus na mapy či svitky",
+			"description": "<p>Tento válcový kožený tubus pojme až deset srolovaných listů papíru nebo pět srolovaných listů pergamenu.</p>"
+		},
+		{
+			"id": "Chain (10 feet)",
+			"name": "Řetěz (10 feet)",
+			"description": "<p>Řetěz má 10 životů. Dá se roztrhnout úspěšným ověřením Síly se SO 20.</p>"
+		},
+		{
+			"id": "Chalk",
+			"name": "Křída",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Climber's Kit",
+			"name": "Horolezecká souprava",
+			"description": "<p>Horolezecká souprava obsahuje speciální skoby, podrážkové hroty, rukavice a sedací úvaz. Horolezeckou soupravu můžeš použít jako akci ke svému ukotvení; uděláš-li to, nemůžeš spadnout o víc než 5 sáhů od bodu, kde ses ukotvil, a nemůžeš šplhat dál než 5 sáhů od tohoto bodu, pokud se neodkotvíš.</p>"
+		},
+		{
+			"id": "Costume Clothes",
+			"name": "Oblečení, kostým",
+			"description": "<p>A complete costume usually used by performers and artists in all manner of entertainment halls or for those that simply refuse to get out of character.</p>"
+		},
+		{
+			"id": "Traveler's Clothes",
+			"name": "Oblečení, cestovní",
+			"description": "<p>A set of clothes worn by travellers.</p>"
+		},
+		{
+			"id": "Common Clothes",
+			"name": "Oblečení, obyčejné",
+			"description": "<p>Clothes worn by most commoners.</p>"
+		},
+		{
+			"id": "Fine Clothes",
+			"name": "Oblečení, zdobené",
+			"description": "<p>Set of clothes designed specifically to be expensive and show it.</p>"
+		},
+		{
+			"id": "Component Pouch",
+			"name": "Brašnička na suroviny.",
+			"description": "<p>Brašnička na suroviny je malá, vodotěsná kožená brašnička na opasek, ve které jsou oddělené úseky pro všechny suroviny a jiné zvláštní předměty, které potřebuješ k sesílání kouzel, kromě těch surovin, které mají zvláštní cenu (uvedenou v popisu kouzla).</p>"
+		},
+		{
+			"id": "Crowbar",
+			"name": "Páčidlo",
+			"description": "<p>Použití páčidla poskytuje výhodu k ověření Síly tam, kde se dá využít páčidlo.</p>"
+		},
+		{
+			"id": "Totem",
+			"name": "Totem",
+			"description": "<p><b>Druidský ohniskový předmět.</b> Druidský ohniskový předmět může být snítka jmelí či cesmínu, hůlka nebo žezlo vyrobené z tisu či jiného speciálního dřeva, berla vytažená v jednom kusu z živého stromu, nebo totem obsahující péra, kožešinu, kosti a zuby posvátných zvířat. Druid může použít takovou věc jako sesílací ohniskový předmět, jak je popsáno v 10. kapitole.</p>"
+		},
+		{
+			"id": "Sprig of Mistletoe",
+			"name": "Snítka jmelí",
+			"description": "<p><b>Druidský ohniskový předmět.</b> Druidský ohniskový předmět může být snítka jmelí či cesmínu, hůlka nebo žezlo vyrobené z tisu či jiného speciálního dřeva, berla vytažená v jednom kusu z živého stromu, nebo totem obsahující péra, kožešinu, kosti a zuby posvátných zvířat. Druid může použít takovou věc jako sesílací ohniskový předmět, jak je popsáno v 10. kapitole.</p>"
+		},
+		{
+			"id": "Wooden Staff",
+			"name": "Dřevěná berla",
+			"description": "<p><b>Druidský ohniskový předmět.</b> Druidský ohniskový předmět může být snítka jmelí či cesmínu, hůlka nebo žezlo vyrobené z tisu či jiného speciálního dřeva, berla vytažená v jednom kusu z živého stromu, nebo totem obsahující péra, kožešinu, kosti a zuby posvátných zvířat. Druid může použít takovou věc jako sesílací ohniskový předmět, jak je popsáno v 10. kapitole.</p>"
+		},
+		{
+			"id": "Yew Wand",
+			"name": "Tisová hůlka",
+			"description": "<p><b>Druidský ohniskový předmět.</b> Druidský ohniskový předmět může být snítka jmelí či cesmínu, hůlka nebo žezlo vyrobené z tisu či jiného speciálního dřeva, berla vytažená v jednom kusu z živého stromu, nebo totem obsahující péra, kožešinu, kosti a zuby posvátných zvířat. Druid může použít takovou věc jako sesílací ohniskový předmět, jak je popsáno v 10. kapitole.</p>"
+		},
+		{
+			"id": "Fishing Tackle",
+			"name": "Rybářské potřeby",
+			"description": "<p>Tato souprava obsahuje dřevěný prut, hedvábný vlasec, korkový plovák, ocelové háčky, olůvka, sametové návnady a síť s drobnými oky.</p>"
+		},
+		{
+			"id": "Grappling Hook",
+			"name": "Kotvička",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Healer's Kit",
+			"name": "Léčitelská souprava",
+			"description": "<p>Jde o koženou brašničku obsahující obvazy, masti a dlahy. Souprava má deset použití. Pomocí své akce a utracením jednoho použití léčitelské soupravy můžeš stabilizovat tvora, který má 0 životů, aniž by sis musel házet na ověření Moudrosti (Lékařství).</p>"
+		},
+		{
+			"id": "Emblem",
+			"name": "Emblem",
+			"description": "<p>Svatý symbol je malé znázornění boha nebo panteonu. Může to být amulet, který zobrazuje symbol znázorňující božstvo, ten stejný symbol pečlivě vyrytý či vykládaný jako emblém na štítu, nebo krabička obsahující fragment posvátné relikvie. Dodatek B uvádí symboly běžně spojované s mnoha bohy v mnohovesmíru. Klerik nebo paladin mohou použít svatý symbol jako sesílací ohniskový předmět, jak je popsáno v 10. kapitole. Aby sesilatel použil symbol tímto způsobem, musí ho držet v ruce, mít viditelně na sobě nebo na štítu.</p>"
+		},
+		{
+			"id": "Reliquary",
+			"name": "Relikvie",
+			"description": "<p>Svatý symbol je malé znázornění boha nebo panteonu. Může to být amulet, který zobrazuje symbol znázorňující božstvo, ten stejný symbol pečlivě vyrytý či vykládaný jako emblém na štítu, nebo krabička obsahující fragment posvátné relikvie. Dodatek B uvádí symboly běžně spojované s mnoha bohy v mnohovesmíru. Klerik nebo paladin mohou použít svatý symbol jako sesílací ohniskový předmět, jak je popsáno v 10. kapitole. Aby sesilatel použil symbol tímto způsobem, musí ho držet v ruce, mít viditelně na sobě nebo na štítu.</p>"
+		},
+		{
+			"id": "Flask of Holy Water",
+			"name": "Svěcená voda (lahvice)",
+			"description": "<p>Jako akci můžeš vychrstnout obsah této lahvice na cíl do 1 sáhu od tebe, nebo ji vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. V každém případě zaútočíš na dálku proti cílovému tvorovi, přičemž ber svěcenou vodu jako improvizovanou zbraň. Je-li cíl běs nebo nemrtvý, utrpí svěcenou vodou zářivé zranění 2k6.</p>"
+		},
+		{
+			"id": "Hourglass",
+			"name": "Přesýpací hodiny",
+			"description": "<p></p>"
+		},
+		{
+			"id": "Hunting Trap",
+			"name": "Lovecká past",
+			"description": "<p>Když použitím své akce nastražíš tuto past, vytvoří se ozubený ocelový kruh, který sklapne, když tvor vkročí na nášlapný plát v jeho středu. Past je připevněná těžkým řetězem k nehybnému objektu, například stromu nebo hřebíku zatlučenému do země. Tvor, který šlápne do pasti, musí uspět v záchranném hodu na Obratnost se SO 13, jinak utrpí bodné zranění 1k4 a zastaví svůj pohyb. Dokud se poté z pasti neosvobodí, jeho pohyb je omezen na délku řetězu (dlouhý obvykle 3 stopy). Tvor může použít svou akci k hodu na ověření Síly se SO 13. Když uspěje, osvobodí sebe nebo jiného tvora ve svém dosahu. Každé neúspěšné ověření způsobí polapenému tvorovi bodné zranění 1.</p>"
+		},
+		{
+			"id": "Ink Bottle",
+			"name": "Inkoust (lahvička 1 unce)",
+			"description": "<p>A small bottle of ink for writing upon parchment.</p>"
+		},
+		{
+			"id": "Ink Pen",
+			"name": "Inkoustové pero",
+			"description": "<p>A deviced used in combination with ink to write or draw on a sheet of paper.</p>"
+		},
+		{
+			"id": "Ladder (10-foot)",
+			"name": "Žebřík (2 sáhy)",
+			"description": "<p>A ladder 10-foot long, as sturdy or rickety as the hand that crafted or bodged it together.</p>"
+		},
+		{
+			"id": "Lamp",
+			"name": "Lampa",
+			"description": "<p> Lampa dosvítí jasným světlem 3 sáhy a slabým světlem dalších 6 sáhů. Po zapálení vydrží s lahvicí (1 holba) oleje hořet 6 hodin.</p>"
+		},
+		{
+			"id": "Bullseye Lantern",
+			"name": "Lucerna, s okenicemi",
+			"description": "<p>Lucerna s okenicemi dosvítí jasným světlem 6 sáhů a slabým světlem dalších 6 sáhů. Po zapálení vydrží s lahvicí (1 holba) oleje hořet 6 hodin. Jako akci můžeš zakrýt okenice lampy a omezit světlo na 1 sáh slabého světla.</p>"
+		},
+		{
+			"id": "Hooded Lantern",
+			"name": "Lucerna, směrová",
+			"description": "<p>Směrová lucerna dosvítí jasným světlem 12 sáhů a slabým světlem dalších 12 sáhů. Po zapálení vydrží s lahvicí (1 holba) oleje hořet 6 hodin.</p>"
+		},
+		{
+			"id": "Lock",
+			"name": "Zámek",
+			"description": "<p>Zámek se dodává s klíčem. Bez klíče může tento zámek otevřít tvor, který je zdatný se zlodějským náčiním, při úspěšném ověření Obratnosti se SO 15. PJ může určit, že za vyšší ceny lze pořídit lepší zámky.</p>"
+		},
+		{
+			"id": "Magnifying Glass",
+			"name": "Lupa",
+			"description": "<p> Tato čočka umožňuje bližší pohled na malé předměty. Dá se také použít místo křesadla pro zapálení ohně. Zapálení ohně lupou vyžaduje kvůli ohnisku jasné denní světlo, troud a pět minut zapalování. Lupa poskytuje výhodu k ověření vlastnosti při oceňování, nebo při zkoumání malého či velmi detailního předmětu.</p>"
+		},
+		{
+			"id": "Manacles",
+			"name": "Okovy",
+			"description": "<p>Těmito kovovými pouty se dá spoutat Malý nebo Střední tvor. Únik z okovů vyžaduje úspěšné ověření Obratnosti se SO 20. Jejich roztrhnutí vyžaduje ověření Síly se SO 20. Každá pouta se dělají s jedním klíčem. Bez klíče může okovy otevřít tvor pomocí zlodějského náčiní, pokud je s ním zdatný, při úspěšném ověření Obratnosti se SO 15. Okovy mají 15 životů.</p>"
+		},
+		{
+			"id": "Mess Kit",
+			"name": "Nádobíčko",
+			"description": "<p>Tato plechová krabička obsahuje šálek a jednoduchý příbor. Krabička se skládá ze dvou do sebe zapadajících částí. Jedna část se dá použít jako pánev na vaření a druhá jako talíř nebo mělká mísa.</p>"
+		},
+		{
+			"id": "Steel Mirror",
+			"name": "Zrcátko, kovové",
+			"description": "<p>A mirror made of steel.</p>"
+		},
+		{
+			"id": "Oil Flask",
+			"name": "Olej (lahvice)",
+			"description": "<p>Olej se obvykle prodává v hliněné lahvici o objemu 1 holba. Jako akci můžeš vychrstnout obsah lahvice na cíl do 1 sáhu od tebe, nebo lahvici vrhnout do dálky až 4 sáhy, kde se při dopadu rozbije. V každém případě zaútočíš na dálku proti cílovému tvorovi nebo předmětu. Při zásahu je cíl potřísněn olejem. Utrpí-li cíl ohnivé zranění, než olej vyschne (po 1 minutě), utrpí hořícím olejem dodatečné ohnivé zranění 5. Lahvici oleje můžeš také rozlít na zem a pokrýt jím čtvercovou plochu 1 × 1 sáh za předpokladu, že je povrch rovný. Pokud se olej zapálí, hoří 2 kola a způsobí ohnivé zranění 5 každému tvorovi, který na plochu vstoupí, nebo na ní skončí svůj tah.</p>"
+		},
+		{
+			"id": "Paper",
+			"name": "Papír (jeden list)",
+			"description": "<p>A single sheet of paper.</p>"
+		},
+		{
+			"id": "Parchment",
+			"name": "Pergamen (jeden list)",
+			"description": "<p>A single sheet of heavier parchment paper.</p>"
+		},
+		{
+			"id": "Perfume",
+			"name": "Parfém (flakónek)",
+			"description": "<p>A vial of aromatic perfume.</p>"
+		},
+		{
+			"id": "Miner's Pick",
+			"name": "Krumpáč, hornický",
+			"description": "<p>It is a hand tool with a hard head atached perpendiocular to the handle.</p>"
+		},
+		{
+			"id": "Piton",
+			"name": "Skoba",
+			"description": "<p>A metal spike that is drive into a seam in a climbing surface with a climbing hammer. It can also be used like iron spikes to block doors in a pinch.</p>"
+		},
+		{
+			"id": "Basic Poison",
+			"name": "Jed, základní (flakónek)",
+			"description": "<p>Jed v tomto flakónku můžeš použít k nanesení na jednu sečnou či bodnou zbraň, nebo až na tři střely. Nanesení jedu zabere akci. Tvor zasažený otrávenou zbraní či střelou musí uspět v záchranném hodu na Odolnost se SO 10, jinak utrpí jedové zranění 1k4. Jakmile se jed nanese, vydrží účinný 1 minutu, než vyschne.</p>"
+		},
+		{
+			"id": "Pole",
+			"name": "Tyč (2 sáhy)",
+			"description": "<p>A ten-foot long pole of sturdy wood.</p>"
+		},
+		{
+			"id": "Potion of Healing",
+			"name": "Léčivý lektvar",
+			"description": "<p>Když vypiješ tuto magickou, červenou kapalinu, obnovíš si 2k4 + 2 životů. Vypití nebo podání lektvaru zabere akci.</p>"
+		},
+		{
+			"id": "Quiver",
+			"name": "Toulec",
+			"description": "<p>Do toulce se vejde až 20 šípů.</p>"
+		},
+		{
+			"id": "Portable Ram",
+			"name": "Beranidlo, přenosné",
+			"description": "<p>Přenosné beranidlo můžeš používat k vyrážení dveří. Uděláš-li to, získáš bonus +4 k ověření Síly. Může ti s tím pomoci jedna další postava, čímž ti dá výhodu k tomuto ověření.</p>"
+		},
+		{
+			"id": "Rations",
+			"name": "Zásoby (na 1 den)",
+			"description": "<p>Kompaktní, suché, vysokoenergetické jídlo vhodné na dlouhé cesty. Zásoby obsahují sušené maso, sušené ovoce, sušenky a ořechy.</p>"
+		},
+		{
+			"id": "Robes",
+			"name": "Roucho",
+			"description": "<p>Simple or ceremonial wear, often used by priests and other religious figures.</p>"
+		},
+		{
+			"id": "Hempen Rope (50 ft.)",
+			"name": "Lano, konopne (10 sáhů)",
+			"description": "<p>Lano, hedvábné nebo konopné, má 2 životy a dá se roztrhnout ověřením Síly se SO 17.</p>"
+		},
+		{
+			"id": "Silk Rope (50 ft.)",
+			"name": "Lano, hedvábné (10 sáhů)",
+			"description": "<p>Lano, hedvábné nebo konopné, má 2 životy a dá se roztrhnout ověřením Síly se SO 17.</p>"
+		},
+		{
+			"id": "Merchant's Scale",
+			"name": "Váhy, kupecké",
+			"description": "<p>Váhy obsahují malé vahadlo, misky a vhodnou soupravu závaží až do 2 liber. Pomocí nich můžeš měřit přesnou váhu malých předmětů, například surových cenných kovů nebo malého obchodního zboží, což ti pomůže při stanovení jejich hodnoty.</p>"
+		},
+		{
+			"id": "Sealing Wax",
+			"name": "Pečetní vosk",
+			"description": "<p>A wax material of a seal which, after melting, hardens quickly forming a bond that is difficult to separate without noticeable tampering.</p>"
+		},
+		{
+			"id": "Shovel",
+			"name": "Lopata",
+			"description": "<p>A tool resembling a spade with a broad blade and typically upturned sides, used for moving coals, earth, snow or other material.</p>"
+		},
+		{
+			"id": "Signal Whistle",
+			"name": "Signální píšťalka",
+			"description": "<p>A whistle can produce specific noise. It can be heard half a mile away.</p>"
+		},
+		{
+			"id": "Signet Ring",
+			"name": "Pečetní prsten",
+			"description": "<p>A ring with specific design to denote membership and rank within a house or organization.</p>"
+		},
+		{
+			"id": "Spellbook",
+			"name": "Kniha kouzel",
+			"description": "<p>Kniha kouzel, jež je nezbytná pro kouzelníky, je v kůži vázaná rukověť se 100 stranami prázdného jemného pergamenu vhodného pro zapisování kouzel.</p>"
+		},
+		{
+			"id": "Iron Spike",
+			"name": "Hřebíky, železné (10 ks)",
+			"description": "<p>A spike of 10 inches long made of iron. Can be improvised to block doors. Usually sold in bundles of 10.</p>"
+		},
+		{
+			"id": "Spyglass",
+			"name": "Dalekohled",
+			"description": "<p>Předměty, které vidíš přes skládací dalekohled, se zdají dvakrát větší.</p>"
+		},
+		{
+			"id": "Two-Person Tent",
+			"name": "Stan",
+			"description": "<p>Jde o jednoduchý a přenosný plátěný příbytek, ve kterém se vyspí dvě osoby.</p>"
+		},
+		{
+			"id": "Tinderbox",
+			"name": "Křesadlo",
+			"description": "<p>Tato malá nádobka obsahuje křemeny, ocílku a troud (obvykle suchou látku vylouhovanou v lampovém oleji), které se používají k zapálení ohně. Zapálení pochodně (či podobné hořlaviny) křesadlem zabere akci. Zapálení jiného ohně trvá 1 minutu.</p>"
+		},
+		{
+			"id": "Torch",
+			"name": "Pochodeň",
+			"description": "<p>Pochodeň vydrží hořet 1 hodinu a dosvítí jasným světlem 4 sáhy a slabým světlem dalších 4 sáhy. Zaútočíš-li na blízko s hořící pochodní a zasáhneš, způsobíš ohnivé zranění 1.</p>"
+		},
+		{
+			"id": "Whetstone",
+			"name": "Brousek",
+			"description": "<p>Whetstone is a sharpening stone. It is used to sharpen the edges of steel tools and implements through grinding and honing.</p>"
 		}
+
 	]
 }
